@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.main{
+	display:flex;
+	padding: 20px;
+	justify-content:space-between;
+	
+}
+.images img{
+	width:100%;
+	display:flex;
+	flex-direction: column;
+	margin:10px;
+}
+.articles p{
+width:30%;
+	font-size:1px;
+}
+
+
+
+
+
